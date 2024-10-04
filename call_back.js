@@ -27,7 +27,7 @@ function divv(a, b) {
 }
 op(12, 4, divv)
 
-function add(a, b) {
+function pow(a, b) {
     return (a ** b)
 }
-op(3, 4, add)
+op(3, 4, pow)
